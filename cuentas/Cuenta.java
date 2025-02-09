@@ -4,7 +4,7 @@ package cuentas;
  * @version 1.1
  * @since 09/02/2025
  */
-public class Cuenta {
+public class Cuenta { //define el método cuenta
 
 	private String nombre;
 	private String cuenta;
